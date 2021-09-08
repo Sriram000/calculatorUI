@@ -6,6 +6,7 @@ specifiers:
   '@testing-library/jest-dom': ^5.14.1
   '@testing-library/react': ^11.2.7
   '@testing-library/user-event': ^12.8.3
+  calculator: github:Sriram000/calculatorService
   eslint: ^7.29.0
   eslint-plugin-react: ^7.24.0
   node-sass: ^6.0.1
@@ -27,6 +28,7 @@ dependencies:
   web-vitals: 1.1.2
 
 devDependencies:
+  calculator: github.com/Sriram000/calculatorService/5101816920cf57ee7d4871161c8301cb732c4af9
   eslint: 7.29.0
   eslint-plugin-react: 7.24.0_eslint@7.29.0
 
@@ -12092,3 +12094,9 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
     dev: false
+
+  github.com/Sriram000/calculatorService/5101816920cf57ee7d4871161c8301cb732c4af9:
+    resolution: {tarball: https://codeload.github.com/Sriram000/calculatorService/tar.gz/5101816920cf57ee7d4871161c8301cb732c4af9}
+    name: calculator
+    version: 1.0.0
+    dev: true

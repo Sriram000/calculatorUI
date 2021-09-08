@@ -61,7 +61,8 @@
   },
   "devDependencies": {
     "eslint": "^7.29.0",
-    "eslint-plugin-react": "^7.24.0"
+    "eslint-plugin-react": "^7.24.0",
+    "calculator": "github:Sriram000/calculatorService"
   },
   "main": "index.js",
   "license": "ISC",

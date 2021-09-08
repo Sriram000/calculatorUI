@@ -1,3 +1,5 @@
+// eslint-disable-next-line react/display-name
+jest.mock('./components/calculator', () => () => <div role="calculator"/>);
 import { React } from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
